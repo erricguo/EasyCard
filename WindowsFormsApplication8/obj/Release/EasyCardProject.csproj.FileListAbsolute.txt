@@ -1,0 +1,8 @@
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exe
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.pdb
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\obj\Release\EasyCardProject.csprojResolveAssemblyReference.cache
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\obj\Release\EasyCardProject.Form1.resources
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\obj\Release\EasyCardProject.Properties.Resources.resources
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\EasyCard\WindowsFormsApplication8\obj\Release\EasyCardProject.csproj.GenerateResource.Cache

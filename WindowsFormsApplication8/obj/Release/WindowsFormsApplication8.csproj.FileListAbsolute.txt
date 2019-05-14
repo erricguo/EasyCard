@@ -1,0 +1,8 @@
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exe
+F:\Users\Erric\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.pdb
